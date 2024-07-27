@@ -1,3 +1,5 @@
+this is for complete beginners , make sure u follow steps its one clcik download to build open cv and open cv contrib 
+
 ```markdown
 # OpenCV Build Script with Contrib Modules
 
